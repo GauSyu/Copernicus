@@ -56,12 +56,12 @@ The mathematical community builds further research on established results and th
 
 | Grade | Knowledge criterion |
 |---|---|
-| **No Advance in Knowledge** | No improvement in conclusions, scope, or supporting grounds. |
-| **A Step Forward** | Particular conclusions, scope corrections, or stronger grounds are supplied, with gains confined to specific aspects. |
-| **A Decisive Advance** | Establishing or correcting conclusions, clarifying scope, or strengthening supporting grounds removes a key obstacle in prior knowledge. |
-| **Foundational Advance** | A fundamental advance in conclusions, scope, or supporting grounds establishes or rebuilds the basis of the relevant knowledge. |
+| **No Advance in Knowledge** | Adds or corrects no conclusions, clarifies no conditions of applicability, and provides no firmer grounds for existing conclusions. |
+| **A Step Forward** | Adds or corrects specific conclusions, clarifies their scope, or provides firmer grounds for them, yielding a local advance. |
+| **A Decisive Advance** | Establishes or corrects conclusions, clarifies their scope, or provides firmer grounds for them, removing a key obstacle in existing knowledge. |
+| **Foundational Advance** | Makes a fundamental advance in conclusions, their scope, or their justification, establishing or rebuilding the foundations of the relevant mathematical knowledge. |
 
-The grades distinguish additions to existing knowledge, the resolution of key uncertainties, and the establishment or rebuilding of foundations. A proof gap involving only a few lines may put an entire theory’s reliability in question, while an imposing theorem may be a direct consequence of known results. A Foundational Advance gives the community fundamental knowledge on which further research can rest. Such a contribution may concern a single problem; its weight cannot be inferred from the number or breadth of its conclusions.
+Repairing a proof gap may correct a local argument, or it may provide reliable grounds for an entire body of results that depends on that argument. The difference lies in what the community could not previously regard as secure and what it can now establish on that basis. A small textual repair may therefore have foundational value, while an imposing theorem may add little knowledge. The grade expresses this change in knowledge, rather than the length of the work, the number of conclusions, or the number of fields involved.
 
 ## Understanding
 
@@ -71,12 +71,12 @@ The mathematical community seeks to know not only which results hold, but why th
 
 | Grade | Understanding criterion |
 |---|---|
-| **No New Insight** | No added clarification of questions, relationships, mechanisms, or perspectives. |
-| **Fresh Insight** | Specific relationships, conceptual distinctions, assumptions, or reasons for success or failure receive new clarification, with gains confined to particular aspects. |
-| **Key Insight** | A core mechanism is explained, or a question's essential structure, implicit premises, and dependencies are clarified, with their scope established. |
-| **Understanding Recast** | Prior conceptual distinctions or explanatory relationships are reconstructed, showing how previously missed connections organize questions or determine phenomena. This can deepen one question or connect different phenomena. |
+| **No New Insight** | Offers no clearer understanding of questions, relationships, or mechanisms, and no new perspective. |
+| **Fresh Insight** | Clarifies specific conceptual distinctions, the role of assumptions, relationships, or reasons for success or failure, deepening understanding locally. |
+| **Key Insight** | Explains a central mechanism or clarifies a problem’s essential structure, implicit premises, and dependencies, making clear where these insights apply. |
+| **Understanding Recast** | Reveals key connections missed by prior understanding, changing conceptual distinctions or explanations so that the structure of a problem or the reasons behind phenomena can be understood anew. |
 
-The distinction between Key Insight and Understanding Recast concerns the depth of the change to prior understanding. The former may reveal the mechanism that determines success or failure within an existing formulation of a problem. The latter may also show that our previous distinctions or explanations missed more fundamental connections, requiring us to reorganize our understanding. This can connect different phenomena or deepen our grasp of a single question. A unified language has corresponding value when it conveys such understanding.
+Clarifying why an assumption is indispensable may explain why a proof succeeds. Discovering that our conceptual distinctions conceal the structure actually at work may lead us to reformulate and understand the whole problem anew. This illustrates the difference in depth between explaining a crucial step and changing a prior way of understanding. New terminology or a unified language does not by itself ensure the latter change; its value lies in revealing previously unrecognized connections. Such a contribution may deepen a single question or connect different phenomena.
 
 ## Methods
 
@@ -86,12 +86,12 @@ Contributions to methods add to the mathematical means available to the communit
 
 | Grade | Methods criterion |
 |---|---|
-| **No Improvement** | Under matching conditions, feasible operations and their costs do not improve. |
-| **Effective Refinement** | Specific steps, resource use, or operating conditions improve, with gains confined to particular aspects. |
-| **Limits Overcome** | A specific change in method overcomes a substantive limitation of prior methods in applicability, procedures, or resource requirements, making a task feasible or substantively improving resource requirements and manageable scale. |
-| **Methods Transformed** | A methodological capability gain becomes a justified system of operations, overcoming substantive methodological obstacles across tasks or removing a key limitation shared by prior methods for one task class. |
+| **No Improvement** | Under the same conditions, makes no additional tasks feasible and does not reduce the cost of completing them. |
+| **Effective Refinement** | Improves particular steps, reduces resource use, or relaxes conditions of use, yielding a local improvement. |
+| **Limits Overcome** | Overcomes a substantive limitation of existing methods in applicability, procedures, or resource requirements, making previously difficult tasks feasible or substantially reducing resource needs or increasing the scale that can be handled. |
+| **Methods Transformed** | Develops a methodological breakthrough into a mathematically justified system of methods that overcomes substantive obstacles across tasks or escapes a key limitation shared by prior methods for a class of tasks. |
 
-Limits Overcome concerns the substantive obstacle removed by a methodological advance. Methods Transformed goes further, concerning a change in the community’s approach to handling problems. A successful technique may reach this level when it develops into a mathematically justified system of methods that overcomes obstacles across tasks or removes a key limitation shared by prior methods for a class of tasks. Reusability alone does not establish such a change. The help a method offers also remains tied to its assumptions and scope.
+A technique that works in several examples need not change the community’s methods. What matters is whether those examples merely repeat the same step or whether the new method overcomes obstacles that previous approaches could not handle. When the latter provides a systematic way forward or frees a class of problems from a shared limitation, it shows the depth of Methods Transformed. Such a breakthrough can occur within one class of problems; its practical benefits also depend on its assumptions, scope, and resource requirements.
 
 ## Exposition
 
@@ -101,12 +101,12 @@ Exposition makes mathematical results into knowledge that others can grasp and u
 
 | Grade | Exposition criterion |
 |---|---|
-| **No Better Access** | Relative to existing materials, the exposition provides no added help in understanding, checking, or use. |
-| **Local Clarification** | Specific explanations, representations, or arrangements of materials make particular content easier to understand, check, or use. |
-| **The Structure Made Clear** | Apt organization of key ideas, arguments, and details helps readers distinguish what matters and grasp the roles and connections of the parts. |
-| **Depth Made Accessible** | Effective explanation, representation, or organization makes previously hard-to-convey core content clear without distortion, enabling readers to grasp its inner connections and crucial distinctions and substantively changing its intelligibility. |
+| **No Better Access** | Makes the material no easier to understand, check, or use than existing accounts do. |
+| **Local Clarification** | Uses specific explanations, representations, or arrangements of material to make particular content easier to understand, check, or use. |
+| **The Structure Made Clear** | Organizes key ideas, arguments, and details effectively, helping readers distinguish what matters and grasp the roles and connections of the parts. |
+| **Depth Made Accessible** | Uses effective explanation, representation, or organization to make previously hard-to-convey central content clear without distortion, enabling readers to grasp its internal connections and crucial distinctions. |
 
-The Structure Made Clear helps readers see how the material is organized and why its parts depend on one another. Depth Made Accessible goes further by addressing the difficulty of conveying the central ideas themselves. Even when the material is complete and clearly ordered, readers may struggle to understand why a definition is natural or an argument works. Finding a representation or explanation that makes these internal connections intelligible offers a deeper expository contribution. It can preserve necessary technical difficulty while reducing difficulties caused by the presentation.
+An article may be complete and clearly ordered yet leave readers unsure why a definition is natural or a construction works. More detail may not resolve such a difficulty, while an apt example, representation, or approach to explanation may bring the central idea into view. This is where Depth Made Accessible goes beyond better organization. It does not require dispensing with necessary mathematical background, but allows readers with that background to grasp the mathematics more directly, with fewer barriers created by its presentation.
 
 ## Mathematical significance
 
@@ -116,12 +116,12 @@ The first four dimensions describe what the community gains; Mathematical Signif
 
 | Grade | Significance criterion |
 |---|---|
-| **Limited Value** | Comparison establishes no added contribution, or gains concern only minor details. |
-| **A Worthwhile Contribution** | A specified question receives concrete benefits; the main research obstacles and conditions of understanding remain unchanged. |
-| **A Major Advance** | A key difficulty blocking a research route is removed, or understanding and treatment of mathematically connected objects, structures, or questions improve substantively. |
-| **A Major Breakthrough** | The work’s actual contribution fundamentally changes the community’s conditions for establishing, explaining, handling, or accessing important mathematics, with concrete mathematical grounds demonstrating that change. |
+| **Limited Value** | Adds no contribution beyond existing work, or improves only minor details. |
+| **A Worthwhile Contribution** | Offers concrete help in solving or understanding a particular problem, without changing the main research obstacles or the basic conditions on which understanding of that problem depends. |
+| **A Major Advance** | Removes a key obstacle along a research direction or substantially advances the community’s understanding and handling of the mathematical objects, structures, or problems concerned. |
+| **A Major Breakthrough** | Through results already achieved, fundamentally changes the conditions under which the community establishes mathematical conclusions, understands mathematical ideas, solves mathematical problems, or grasps important mathematics. |
 
-A Major Advance may remove a crucial obstacle along a research direction. A Major Breakthrough involves a fundamental change in the foundations and conditions under which the community understands or handles important mathematics. Difficulty, fame, and scale alone do not establish this distinction: a narrowly focused work may reach the foundations, while a formally general framework may offer limited help. The fundamental change must be present in the results, explanations, methods, or exposition the work has already provided, rather than in hopes for its eventual influence.
+A work confined to a special case may remove an obstacle along an important research direction, while a formally general framework may leave every crucial aspect of our understanding unchanged. Breadth therefore cannot directly determine significance. Likewise, solving a difficult problem does not automatically constitute a Major Breakthrough. The deeper question is whether the work provides previously missing reliable foundations, explanations, or means of treatment for important mathematics, thereby changing how the community can study and grasp it. The assessment concerns changes already achieved; subsequent influence is a separate historical question.
 
 ## The five-axis contribution profile
 
