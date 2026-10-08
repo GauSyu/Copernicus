@@ -52,7 +52,7 @@ The following sections explain the five dimensions and their grades in turn. A w
 
 **What is established, and which grounds are strengthened?**
 
-The mathematical community’s knowledge includes established conclusions as well as the conditions and reasons that make them valid. Advances in knowledge therefore come from more than new theorems. Correcting errors, clarifying scope, and repairing gaps in proofs can all make our knowledge more reliable. An independent check has value in this respect when it resolves specific doubts left by an existing argument.
+The mathematical community builds further research on established results and their proofs. New theorems add to what we know; correcting errors, clarifying conditions, and repairing proof gaps make that knowledge more accurate and reliable. Contributions to knowledge therefore include both discovering previously unknown facts and providing firmer grounds for existing understanding. Independent verification can also improve reliability when it resolves specific doubts.
 
 | Grade | Knowledge criterion |
 |---|---|
@@ -61,13 +61,13 @@ The mathematical community’s knowledge includes established conclusions as wel
 | **A Decisive Advance** | Establishing or correcting conclusions, clarifying scope, or strengthening supporting grounds removes a key obstacle in prior knowledge. |
 | **Foundational Advance** | A fundamental advance in conclusions, scope, or supporting grounds establishes or rebuilds the basis of the relevant knowledge. |
 
-The value of repairing a proof gap depends on what that gap had left unsettled. If it affects only a local conclusion, the advance may be local too; if many important conclusions depend on that step, the repair may restore reliable foundations for an entire theory. Likewise, a new theorem is foundational because of the knowledge it establishes for the community, rather than the number of theorems or the length of their proofs.
+The grades distinguish additions to existing knowledge, the resolution of key uncertainties, and the establishment or rebuilding of foundations. A proof gap involving only a few lines may put an entire theory’s reliability in question, while an imposing theorem may be a direct consequence of known results. A Foundational Advance gives the community fundamental knowledge on which further research can rest. Such a contribution may concern a single problem; its weight cannot be inferred from the number or breadth of its conclusions.
 
 ## Understanding
 
 **Which questions are clarified, and which relationships or mechanisms are revealed?**
 
-Knowing a result does not always mean understanding why it holds. We may still be unsure what role an assumption plays, why two phenomena are connected, or why an approach fails. Revealing these reasons and connections can deepen the community’s understanding of mathematics already known. Posing a good question can contribute in the same way: it can separate doubts that were previously confused and bring the real difficulty into view.
+The mathematical community seeks to know not only which results hold, but why they hold and how they are connected. The role of an assumption, the motivation for a construction, or the reason an approach fails may be a missing part of our understanding. Making these connections clear helps us grasp a problem more accurately. Good questions can contribute in this way too: they separate what was confused and reveal difficulties previously overlooked.
 
 | Grade | Understanding criterion |
 |---|---|
@@ -76,13 +76,13 @@ Knowing a result does not always mean understanding why it holds. We may still b
 | **Key Insight** | A core mechanism is explained, or a question's essential structure, implicit premises, and dependencies are clarified, with their scope established. |
 | **Understanding Recast** | Prior conceptual distinctions or explanatory relationships are reconstructed, showing how previously missed connections organize questions or determine phenomena. This can deepen one question or connect different phenomena. |
 
-For example, clarifying the role of an assumption in a proof may offer a specific insight; discovering that it controls the central obstacle in the problem may reveal something crucial. If this discovery goes on to change how we distinguish and connect related phenomena, allowing phenomena previously explained separately to be understood through a shared structure, it may recast understanding. Such a change can also deepen a single question; it need not connect multiple fields.
+The distinction between Key Insight and Understanding Recast concerns the depth of the change to prior understanding. The former may reveal the mechanism that determines success or failure within an existing formulation of a problem. The latter may also show that our previous distinctions or explanations missed more fundamental connections, requiring us to reorganize our understanding. This can connect different phenomena or deepen our grasp of a single question. A unified language has corresponding value when it conveys such understanding.
 
 ## Methods
 
 **Which tasks become feasible, and which costs fall?**
 
-Mathematical methods give the community ways to prove, construct, compute, and verify. An improved method may make previously intractable problems manageable, simplify existing work, reduce the resources it requires, or extend it to a wider range of cases. These benefits may come from a new method or from refining and combining existing ones. This dimension concerns the additional means now available to the community; new results obtained by familiar methods can contribute to Knowledge and other dimensions.
+Contributions to methods add to the mathematical means available to the community. A new proof strategy, construction, or computational method can make difficult work feasible, reduce the effort it requires, or remove restrictions. Refinements and combinations of existing methods can offer these benefits too. This dimension concerns how we can now do mathematics, which is distinct from the new conclusions obtained by applying a method.
 
 | Grade | Methods criterion |
 |---|---|
@@ -91,13 +91,13 @@ Mathematical methods give the community ways to prove, construct, compute, and v
 | **Limits Overcome** | A specific change in method overcomes a substantive limitation of prior methods in applicability, procedures, or resource requirements, making a task feasible or substantively improving resource requirements and manageable scale. |
 | **Methods Transformed** | A methodological capability gain becomes a justified system of operations, overcoming substantive methodological obstacles across tasks or removing a key limitation shared by prior methods for one task class. |
 
-An algorithm that reduces the computation required by one step may offer an effective refinement. If it overcomes a crucial bottleneck and makes previously unmanageable scales tractable, it may overcome a substantive limit. Methods Transformed involves a deeper change: the new approach forms a mathematically justified system of methods that overcomes substantive obstacles across tasks or escapes a key limitation shared by prior methods for a class of tasks. The community thereby gains a new way to handle those tasks. Its value also depends on applicability: stronger assumptions or a narrower scope affect the actual benefit.
+Limits Overcome concerns the substantive obstacle removed by a methodological advance. Methods Transformed goes further, concerning a change in the community’s approach to handling problems. A successful technique may reach this level when it develops into a mathematically justified system of methods that overcomes obstacles across tasks or removes a key limitation shared by prior methods for a class of tasks. Reusability alone does not establish such a change. The help a method offers also remains tied to its assumptions and scope.
 
 ## Exposition
 
 **Which obstacles to understanding, checking, and use are removed?**
 
-Mathematical ideas reach others through exposition. Clear explanations, apt notation, and well-organized arguments can help readers grasp the central ideas, see how the parts connect, check proofs, and apply results. Even when the mathematics is already known, such improvements benefit the community. They can serve beginners as well as researchers familiar with the field.
+Exposition makes mathematical results into knowledge that others can grasp and use. Apt explanations, notation, and organization of arguments can help readers understand why an idea was introduced, how a proof develops, and how a result applies. This reduces barriers to communication and helps the community check and pass on mathematics. Explaining existing material more clearly can contribute even without new results; improvements for experts and explanations for beginners each have value.
 
 | Grade | Exposition criterion |
 |---|---|
@@ -106,13 +106,13 @@ Mathematical ideas reach others through exposition. Clear explanations, apt nota
 | **The Structure Made Clear** | Apt organization of key ideas, arguments, and details helps readers distinguish what matters and grasp the roles and connections of the parts. |
 | **Depth Made Accessible** | Effective explanation, representation, or organization makes previously hard-to-convey core content clear without distortion, enabling readers to grasp its inner connections and crucial distinctions and substantively changing its intelligibility. |
 
-Adding an apt explanation to a difficult derivation may offer local clarification. Reorganizing an argument so that readers see why each step appears and how it serves the main idea may make its structure clear. Depth Made Accessible goes further in how the mathematics is conveyed: an apt representation, example, or organization makes a previously hard-to-convey central idea intelligible while preserving necessary distinctions and rigor. Readers may still need considerable mathematical background, but no longer have to discover for themselves connections that the exposition can make clear.
+The Structure Made Clear helps readers see how the material is organized and why its parts depend on one another. Depth Made Accessible goes further by addressing the difficulty of conveying the central ideas themselves. Even when the material is complete and clearly ordered, readers may struggle to understand why a definition is natural or an argument works. Finding a representation or explanation that makes these internal connections intelligible offers a deeper expository contribution. It can preserve necessary technical difficulty while reducing difficulties caused by the presentation.
 
 ## Mathematical significance
 
 **Why do these improvements merit the community's attention?**
 
-The first four dimensions describe the advances a work makes; Mathematical Significance concerns why those advances matter to the community: which important problems they resolve, which important connections they reveal, or which lines of research gain a new starting point. Contributions to Knowledge, Understanding, Methods, and Exposition can all have major mathematical significance. This dimension concerns the importance of specific advances and therefore cannot be calculated by adding the other four grades.
+The first four dimensions describe what the community gains; Mathematical Significance asks why those gains matter. A result may matter because it settles a crucial problem, an explanation because it changes our understanding of a central structure. Methods and exposition can likewise fundamentally improve how people study and grasp mathematics. Significance therefore requires an understanding of the particular mathematics involved and cannot be calculated by adding the other four grades.
 
 | Grade | Significance criterion |
 |---|---|
@@ -121,16 +121,14 @@ The first four dimensions describe the advances a work makes; Mathematical Signi
 | **A Major Advance** | A key difficulty blocking a research route is removed, or understanding and treatment of mathematically connected objects, structures, or questions improve substantively. |
 | **A Major Breakthrough** | The work’s actual contribution fundamentally changes the community’s conditions for establishing, explaining, handling, or accessing important mathematics, with concrete mathematical grounds demonstrating that change. |
 
-Progress on a special case may add to our knowledge of a problem, or it may remove a crucial obstacle along an important research direction. The latter can constitute a major advance, but resolving a difficulty does not by itself establish a fundamental change. A Major Breakthrough fundamentally changes the ways and foundations through which the community establishes, explains, handles, or grasps important mathematics. For example, a new structural understanding may reorganize previously scattered central questions and provide a common basis for their study. Its significance comes from the connections and foundations the work has already established; the influence of subsequent developments remains a matter for history.
+A Major Advance may remove a crucial obstacle along a research direction. A Major Breakthrough involves a fundamental change in the foundations and conditions under which the community understands or handles important mathematics. Difficulty, fame, and scale alone do not establish this distinction: a narrowly focused work may reach the foundations, while a formally general framework may offer limited help. The fundamental change must be present in the results, explanations, methods, or exposition the work has already provided, rather than in hopes for its eventual influence.
+
+## The five-axis contribution profile
+
+We propose a five-axis diagram to present a work’s contributions to Knowledge, Understanding, Methods, Exposition, and Significance, accompanied by an explanation of the mathematical reasons for the assessment, so that the community can understand and discuss it. The grades do not combine into a total score, and the area of the diagram does not represent the work’s overall value.
 
 ## Long-term influence
 
 How a contribution is used, revised, and developed often becomes clear only through subsequent research. Understanding its lasting influence involves examining the work it actually led to and the changes it brought to mathematical knowledge. Citation counts, popularity, or a period of non-use cannot answer those questions on their own.
 
 This initiative is intended primarily for assessing new work, so its five grades exclude long-term influence. Influence that later materializes can be assessed separately as a matter of history; expectations of future influence cannot count as contributions already made.
-
-## The five-axis contribution profile
-
-We propose a five-axis diagram to show a work’s contributions to Knowledge, Understanding, Methods, Exposition, and Significance, giving readers a visual overview of where it advances mathematics. The grades do not combine into a total score, and the area of the diagram does not represent the work’s overall value.
-
-The diagram offers an overview; the accompanying text explains the mathematical reasons for the assessment. Together, they can help the community understand a work’s contribution and provide grounds for discussing differences in judgment.
