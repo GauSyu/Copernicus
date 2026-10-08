@@ -6,7 +6,7 @@
 
 ### 为什么需要这个项目
 
-随着 AI4Math 发展，数学工作不断增加：什么构成对数学的贡献？Copernicus 从以下出发点探索一种贡献评价方法，供数学家讨论、采用与修订。
+随着 AI4Math 发展，数学工作不断增加：什么构成对数学的贡献？Copernicus 从以下出发点探索一种数学工作评价方法，供数学家讨论、采用与修订。
 
 > **数学成果服务于数学共同体对数学对象、结构与问题的认识。**
 
@@ -22,7 +22,7 @@
 
 ### Why this project
 
-As AI4Math expands and mathematical works multiply, what constitutes a contribution to mathematics? Copernicus explores a method of contribution evaluation from the following starting point, for mathematicians to discuss, adopt, and revise.
+As AI4Math expands and mathematical works multiply, what constitutes a contribution to mathematics? Copernicus explores an approach to assessing mathematical work from the following starting point, for mathematicians to discuss, adopt, and revise.
 
 > **Mathematical contributions serve the mathematical community's knowledge and understanding of mathematical objects, structures, and questions.**
 

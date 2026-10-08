@@ -3,7 +3,7 @@ author: Gau·Syu
 date: "2026-10-07"
 ---
 
-# Evaluating Mathematical Contributions: A Proposal
+# A Copernican Initiative for Assessing Mathematical Work
 
 [中文](Copernicus.zh.md)
 

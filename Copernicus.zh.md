@@ -3,7 +3,7 @@ author: Gau·Syu
 date: "2026-10-07"
 ---
 
-# 数学贡献评价：一个提议
+# 关于数学工作评价的哥白尼倡议
 
 [English](Copernicus.en.md)
 
