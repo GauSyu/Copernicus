@@ -3,7 +3,7 @@ author: Gau·Syu
 date: "2026-10-07"
 ---
 
-# Principles for Evaluating Mathematical Contributions
+# Evaluating Mathematical Contributions: A Proposal
 
 [中文](Copernicus.zh.md)
 

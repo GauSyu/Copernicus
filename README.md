@@ -12,15 +12,11 @@
 
 ### 倡议正文
 
-阅读 [Copernicus 中文版](Copernicus.zh.md)或[英文版](Copernicus.en.md)。正文给出评价原则、知识／理解／方法／表达／意义五个维度及各项文字等级。
+阅读 [Copernicus 中文版](Copernicus.zh.md)或[英文版](Copernicus.en.md)。正文介绍知识／理解／方法／表达／意义五个评价维度及相应的文字等级。
 
 [五维图模板](assets/contribution-grid.svg)呈现由文字理由支撑的贡献判断。最低档位于原点，其余三档位于三圈；等级不相加，面积不表示总体价值。图示本身不构成共同体共识或判断认证。
 
-### 与阅读筛选的区别
-
-[MathMerit](https://github.com/GauSyu/MathMerit) 是独立的 AI 技能，帮助数学家筛选值得一看的工作。它参考本倡议某个固定版本的判据，但其图示呈现的是供阅读筛选使用的 AI 推测，不能与 Copernicus 的贡献评价图互相替代。
-
-本仓库维护倡议正文与贡献评价图模板；MathMerit 独立维护技能规则、报告格式与 AI 阅读筛选图模板。
+相关项目：[MathMerit](https://github.com/GauSyu/MathMerit) 参考本倡议，提供 AI 辅助的数学文献阅读建议。
 
 ## English
 
@@ -32,12 +28,8 @@ As AI4Math expands and mathematical works multiply, what constitutes a contribut
 
 ### The proposal
 
-Read [Copernicus in English](Copernicus.en.md) or [Chinese](Copernicus.zh.md). The proposal gives principles, five dimensions, and named grades: Knowledge, Understanding, Methods, Exposition, and Significance.
+Read [Copernicus in English](Copernicus.en.md) or [Chinese](Copernicus.zh.md). The proposal introduces five dimensions and their named grades: Knowledge, Understanding, Methods, Exposition, and Significance.
 
 Its [five-axis template](assets/contribution-grid.svg) displays contribution judgments with their written reasons. The lowest grade lies at the origin; the other three grades lie on three rings. Grades are not added, and area does not measure overall value. The diagram does not itself establish consensus or certify a judgment.
 
-### Separate from reading selection
-
-[MathMerit](https://github.com/GauSyu/MathMerit) is a separate AI skill for helping mathematicians select works worth reading. It draws on a fixed version of these criteria, but its diagram presents provisional AI inferences for reading selection. That diagram is not interchangeable with a Copernicus contribution assessment.
-
-This repository maintains the proposal and its contribution-diagram template. MathMerit maintains its own instructions, report format, and AI reading-selection template.
+Related project: [MathMerit](https://github.com/GauSyu/MathMerit) draws on this proposal to offer AI-assisted reading recommendations for mathematical literature.

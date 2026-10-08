@@ -3,7 +3,7 @@ author: Gau·Syu
 date: "2026-10-07"
 ---
 
-# 数学成果评价原则
+# 数学贡献评价：一个提议
 
 [English](Copernicus.en.md)
 
