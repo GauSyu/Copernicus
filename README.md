@@ -12,7 +12,7 @@
 
 | 文档 | 内容 |
 |---|---|
-| [哥白尼倡议](Copernicus.zh.md) | 由康德引文引入，阐述以人的认识为中心的价值立场、人与 AI 共同推进的实践主张、六项原则，以及四类贡献与数学意义的区别。 |
+| [哥白尼倡议](Copernicus.zh.md) | 阐述以人的认识为中心的价值立场、人与 AI 共同推进的实践主张、六项原则，以及四类贡献与数学意义的区别。 |
 | [数学贡献的五维判据与五轴图](Assessment-Scheme.zh.md) | 提出一种具体实施方案，包括完整分级判据、评价与核查流程、结果呈现和五轴图的读法。 |
 
 认同倡议，并不要求接受实施方案中的每项分级或图形表达。方案可随实践改进；评价的理由始终比等级与图形更重要。
@@ -29,7 +29,7 @@ The project comprises the initiative and a companion implementation scheme:
 
 | Document | Contents |
 |---|---|
-| [The Copernican Initiative](Copernicus.en.md) | Opens with Kant's epigraph and sets out the focus on human knowledge and understanding, the joint participation of humans and AI, six principles, and the distinction between four kinds of contribution and their mathematical significance. |
+| [The Copernican Initiative](Copernicus.en.md) | Sets out the focus on human knowledge and understanding, the joint participation of humans and AI, six principles, and the distinction between four kinds of contribution and their mathematical significance. |
 | [Five-Dimensional Criteria and a Five-Axis Profile](Assessment-Scheme.en.md) | Offers one implementation scheme, including full grade criteria, assessment and checking procedures, reporting guidance, and an explanation of the diagram. |
 
 Accepting the initiative does not require accepting every grade distinction or graphical choice in the scheme. The scheme can evolve with practice; the reasons for an assessment remain more important than its grades or diagram.
