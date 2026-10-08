@@ -47,4 +47,4 @@ date: "2026-10-09"
 
 ---
 
-配套方案：[数学贡献的五维判据与五轴图](Assessment-Scheme.zh.md)。
+配套方案：[五维评价方案](Assessment-Scheme.zh.md)。

@@ -47,4 +47,4 @@ I tentatively call this proposal the “Copernican Initiative”: to ground math
 
 ---
 
-Companion scheme: [Five-Dimensional Criteria and a Five-Axis Profile for Mathematical Contributions](Assessment-Scheme.en.md).
+Companion scheme: [Five-Dimensional Assessment Scheme](Assessment-Scheme.en.md).

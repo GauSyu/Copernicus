@@ -3,7 +3,7 @@ author: Gau·Syu
 date: "2026-10-09"
 ---
 
-# Five-Dimensional Criteria and a Five-Axis Profile for Mathematical Contributions
+# Five-Dimensional Assessment Scheme
 
 *An implementation scheme for the Copernican Initiative*
 
